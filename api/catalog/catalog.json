@@ -1,0 +1,22 @@
+﻿[
+  {
+    
+    "catalogId": 1,
+    "catalogName": "Home",
+    "description": "Home appliance"
+  }
+  ,
+  {
+    
+    "catalogId": 2,
+    "catalogName": "garden",
+    "description": "Garden tools"
+
+  },
+  {
+    
+    "catalogId": 3,
+    "catalogName": " Kitchen",
+    "description":"Kitchen appliance"
+  }
+]
